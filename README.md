@@ -9,9 +9,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Atualmente trabalho com **suporte técnico na UNIPAR**, onde realizo manutenção de equipamentos, redes e sistemas. Tenho experiência com ambientes **Windows e Linux**, e desenvolvo **scripts para automação de tarefas rotineiras**, principalmente com **PowerShell** e **Bash**.
+Atuo como **auxiliar de suporte técnico na UNIPAR**, onde realizo manutenção de computadores, configuração de redes e equipamentos audiovisuais. Tenho sólida afinidade com ambientes **Windows e Linux**, e desenvolvo **scripts para automação e manutenção de sistemas**.
 
-Sou apaixonado por **tecnologia, otimização e segurança da informação**. Estou focado em me especializar em **back-end** e **administração de sistemas**, e estudo continuamente para aprofundar meus conhecimentos técnicos. Em breve, pretendo migrar para **Engenharia de Software**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em **back-end**, **scripting**, **automação de tarefas** e **segurança da informação**. Estou sempre buscando formas de aplicar o conhecimento de forma prática e com propósito. Pretendo migrar futuramente para **Engenharia de Software** para aprofundar ainda mais minha base técnica.
 
 ---
 
@@ -31,11 +31,46 @@ Sou apaixonado por **tecnologia, otimização e segurança da informação**. Es
 
 ---
 
-## 📁 Repositórios em Destaque
+## 📁 Projetos em Destaque
 
-- 🔧 [`windows-maintenance-tool`](https://github.com/seu-usuario/windows-maintenance-tool) – Script avançado de manutenção e otimização para Windows usando PowerShell.
-- 🌿 [`ecolink`](https://github.com/seu-usuario/ecolink) – Identidade Sustentável Digital, com foco em tecnologia ecológica e uso consciente de dados.
-- 🧪 [`study-lab`](https://github.com/seu-usuario/study-lab) – Repositório de estudos com projetos em HTML, JavaScript, Bash e anotações práticas.
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [`windows-maintenance-tool`](https://github.com/seu-usuario/windows-maintenance-tool) | Script avançado de manutenção e otimização para Windows com PowerShell. | PowerShell |
+| [`ecolink`](https://github.com/seu-usuario/ecolink) | Identidade Sustentável Digital – uso consciente de tecnologia e dados. | HTML, CSS, JS |
+| [`study-lab`](https://github.com/seu-usuario/study-lab) | Repositório de estudos com scripts, testes e anotações práticas. | Bash, HTML, Python |
+| [`meu-site-pessoal`](https://github.com/seu-usuario/meu-site-pessoal) | Página pessoal simples e responsiva usando HTML e CSS. | HTML, CSS |
+
+---
+
+## 📘 Conhecimentos em Desenvolvimento
+
+- ✅ Administração básica de sistemas Linux (em progresso com leitura do livro)
+- ✅ Automação e manutenção de sistemas Windows com PowerShell
+- ✅ Scripts Bash para tarefas cotidianas
+- ✅ Fundamentos de HTML, CSS e JavaScript
+- ⏳ Estudo contínuo de Git e versionamento
+- ⏳ Introdução à segurança da informação
+
+> Atualmente lendo: **"Linux – Guia do Administrador do Sistema" (Rubem E. Ferreira)**
+
+---
+
+## 🖥️ Demonstrações
+
+### Script de manutenção no PowerShell
+<img src="https://github.com/seu-usuario/seu-repo/blob/main/demo-powershell.gif" alt="Demonstração PowerShell" width="600"/>
+
+> (Substitua esta imagem por um GIF real do script funcionando, se quiser)
+
+---
+
+## 💼 Como posso ajudar sua empresa
+
+- Automatizando tarefas repetitivas com scripts personalizados
+- Otimizando e mantendo ambientes Windows/Linux
+- Ajudando no desenvolvimento de soluções back-end simples
+- Explorando e aplicando boas práticas em segurança e organização de sistemas
+- Criando documentação técnica clara e acessível
 
 ---
 
@@ -48,7 +83,17 @@ Sou apaixonado por **tecnologia, otimização e segurança da informação**. Es
 
 ---
 
-## 📫 Contato e Redes
+## ✅ Próximos Passos
+
+- [x] Estruturar este portfólio no GitHub
+- [ ] Publicar página pessoal no GitHub Pages
+- [ ] Subir scripts Linux e Bash do estudo com o livro
+- [ ] Estudar GitHub Actions e automações
+- [ ] Avançar para estudos de redes, shell avançado e segurança
+
+---
+
+## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-santos-inácio-28b2a9345">
