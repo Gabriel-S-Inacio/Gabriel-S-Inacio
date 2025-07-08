@@ -37,7 +37,7 @@
 
 ### 📬 Contato
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-santos-inácio-28b2a9345)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/gabriel-santos-inácio-28b2a9345)
 
 ---
 
