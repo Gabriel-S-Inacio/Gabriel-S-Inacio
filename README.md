@@ -37,8 +37,9 @@
 
 ### 📬 Contato
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/gabriel-santos-inácio-28b2a9345)
-
+<a href="https://www.linkedin.com/in/gabriel-santos-inácio-28b2a9345" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+</a>
 ---
 
 > “Não se trata de saber tudo, mas de entender, aplicar e melhorar constantemente.”
