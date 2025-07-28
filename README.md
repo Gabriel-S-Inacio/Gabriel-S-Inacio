@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedor em formação • Foco em automação, back-end e scripts</b><br>
-  Estudante de ADS na UNIPAR 🎓 • Explorando Linux, PowerShell e segurança da informação
+  Estudante de Engenharia de Software UNIPAR 🎓 • Explorando Linux, PowerShell e segurança da informação
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 Atuo como **auxiliar de suporte técnico na UNIPAR**, onde realizo manutenção de computadores, configuração de redes e equipamentos audiovisuais. Tenho sólida afinidade com ambientes **Windows e Linux**, e desenvolvo **scripts para automação e manutenção de sistemas**.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em **back-end**, **scripting**, **automação de tarefas** e **segurança da informação**. Estou sempre buscando formas de aplicar o conhecimento de forma prática e com propósito. Pretendo migrar futuramente para **Engenharia de Software** para aprofundar ainda mais minha base técnica.
+Sou estudante de **Engenharia de Software**, com grande interesse em **back-end**, **scripting**, **automação de tarefas** e **segurança da informação**. Estou sempre buscando formas de aplicar o conhecimento de forma prática e com propósito.
 
 ---
 
