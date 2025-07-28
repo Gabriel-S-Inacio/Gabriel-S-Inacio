@@ -9,9 +9,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo como **auxiliar de suporte audiovisual na UNIPAR**, onde realizo manutenção de computadores, configuração de redes e equipamentos audiovisuais. Tenho sólida afinidade com ambientes **Windows e Linux**, e desenvolvo **scripts para automação e manutenção de sistemas**.
+Atuo como **auxiliar de suporte audiovisual na UNIPAR**, realizo manutenção de computadores, configuração de redes e equipamentos audiovisuais. Tenho afinidade com ambientes **Windows e Linux**, e desenvolvo **scripts para automação e manutenção de sistemas**.
 
-Sou estudante de **Engenharia de Software**, com grande interesse em **back-end**, **scripting**, **automação de tarefas** e **segurança da informação**. Estou sempre buscando formas de aplicar o conhecimento de forma prática e com propósito.
+Sou estudante de **Engenharia de Software**, com interesse em **back-end**, **scripting**, **automação de tarefas** e **segurança da informação**. Estou sempre buscando formas de aplicar o conhecimento de forma prática e com propósito.
 
 ---
 
@@ -30,18 +30,6 @@ Sou estudante de **Engenharia de Software**, com grande interesse em **back-end*
 </p>
 
 ---
-
-## 📁 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [`windows-maintenance-tool`](https://github.com/seu-usuario/windows-maintenance-tool) | Script avançado de manutenção e otimização para Windows com PowerShell. | PowerShell |
-| [`ecolink`](https://github.com/seu-usuario/ecolink) | Identidade Sustentável Digital – uso consciente de tecnologia e dados. | HTML, CSS, JS |
-| [`study-lab`](https://github.com/seu-usuario/study-lab) | Repositório de estudos com scripts, testes e anotações práticas. | Bash, HTML, Python |
-| [`meu-site-pessoal`](https://github.com/seu-usuario/meu-site-pessoal) | Página pessoal simples e responsiva usando HTML e CSS. | HTML, CSS |
-
----
-
 ## 📘 Conhecimentos em Desenvolvimento
 
 - ✅ Administração básica de sistemas Linux (em progresso com leitura do livro)
@@ -55,15 +43,6 @@ Sou estudante de **Engenharia de Software**, com grande interesse em **back-end*
 
 ---
 
-## 🖥️ Demonstrações
-
-### Script de manutenção no PowerShell
-<img src="https://github.com/seu-usuario/seu-repo/blob/main/demo-powershell.gif" alt="Demonstração PowerShell" width="600"/>
-
-> (Substitua esta imagem por um GIF real do script funcionando, se quiser)
-
----
-
 ## 💼 Como posso ajudar sua empresa
 
 - Automatizando tarefas repetitivas com scripts personalizados
@@ -71,15 +50,6 @@ Sou estudante de **Engenharia de Software**, com grande interesse em **back-end*
 - Ajudando no desenvolvimento de soluções back-end simples
 - Explorando e aplicando boas práticas em segurança e organização de sistemas
 - Criando documentação técnica clara e acessível
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -94,9 +64,6 @@ Sou estudante de **Engenharia de Software**, com grande interesse em **back-end*
   </a>
   <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/seu_usuario">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
