@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo como **auxiliar de suporte técnico na UNIPAR**, onde realizo manutenção de computadores, configuração de redes e equipamentos audiovisuais. Tenho sólida afinidade com ambientes **Windows e Linux**, e desenvolvo **scripts para automação e manutenção de sistemas**.
+Atuo como **auxiliar de suporte audiovisual na UNIPAR**, onde realizo manutenção de computadores, configuração de redes e equipamentos audiovisuais. Tenho sólida afinidade com ambientes **Windows e Linux**, e desenvolvo **scripts para automação e manutenção de sistemas**.
 
 Sou estudante de **Engenharia de Software**, com grande interesse em **back-end**, **scripting**, **automação de tarefas** e **segurança da informação**. Estou sempre buscando formas de aplicar o conhecimento de forma prática e com propósito.
 
@@ -80,16 +80,6 @@ Sou estudante de **Engenharia de Software**, com grande interesse em **back-end*
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-## ✅ Próximos Passos
-
-- [x] Estruturar este portfólio no GitHub
-- [ ] Publicar página pessoal no GitHub Pages
-- [ ] Subir scripts Linux e Bash do estudo com o livro
-- [ ] Estudar GitHub Actions e automações
-- [ ] Avançar para estudos de redes, shell avançado e segurança
 
 ---
 
