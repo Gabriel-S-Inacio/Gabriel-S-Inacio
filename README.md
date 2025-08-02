@@ -72,7 +72,7 @@ Abaixo alguns projetos que estou desenvolvendo ou mantendo, com foco em automaç
 
 ### 🖼️ Páginas Web Criadas
 
-- **[Página Pessoal Simples](https://seu-usuario.github.io/pagina-pessoal)** — Página em HTML, CSS e JavaScript com animações e design responsivo.
+- **[Página Pessoal Simples](https://github.com/Gabriel-S-Inacio/Gabriel-S-Inacio/blob/main/Gabril%20S.%20In%C3%A1cio.zip)** — Página em HTML, CSS e JavaScript com animações e design responsivo.
 - **[Landing Page de Serviços](https://seu-usuario.github.io/landing-servicos)** — Projeto estático de apresentação de serviços com foco visual.
 - **[Mini Aplicativo Interativo](https://seu-usuario.github.io/mini-app)** — Aplicativo simples em JS com funcionalidades básicas.
 
