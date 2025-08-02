@@ -81,7 +81,7 @@ Abaixo alguns projetos que estou desenvolvendo ou mantendo, com foco em automaç
 - **[PentestLab](https://github.com/seu-usuario/PentestLab)** — Laboratório local para simulação de ataques e estudos de segurança.
 - **[Servidor Local](https://github.com/seu-usuario/Servidor-Projetos)** — Configuração de ambiente Linux com Docker e serviços para hospedagem local.
 
-> 🔎 Veja todos os meus repositórios em [github.com/seu-usuario](https://github.com/seu-usuario)
+> 🔎 Veja todos os meus repositórios em [github.com/seu-usuario](https://github.com/Gabriel-S-Inacio)
 
 ---
 
