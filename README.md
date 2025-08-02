@@ -25,6 +25,7 @@ Sou estudante de **Engenharia de Software**, com interesse em **back-end**, **sc
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
@@ -69,6 +70,12 @@ Abaixo alguns projetos que estou desenvolvendo ou mantendo, com foco em automaç
 - **[Agenda Digital](https://github.com/seu-usuario/Agenda-Digital)** — Sistema de agendamento de serviços, com foco em usabilidade.
 - **[Portfólio Web](https://github.com/seu-usuario/Portfolio-Web)** — Página interativa para exibição de habilidades e projetos.
 
+### 🖼️ Páginas Web Criadas
+
+- **[Página Pessoal Simples](https://seu-usuario.github.io/pagina-pessoal)** — Página em HTML, CSS e JavaScript com animações e design responsivo.
+- **[Landing Page de Serviços](https://seu-usuario.github.io/landing-servicos)** — Projeto estático de apresentação de serviços com foco visual.
+- **[Mini Aplicativo Interativo](https://seu-usuario.github.io/mini-app)** — Aplicativo simples em JS com funcionalidades básicas.
+
 ### 🔐 Segurança e Infraestrutura
 
 - **[PentestLab](https://github.com/seu-usuario/PentestLab)** — Laboratório local para simulação de ataques e estudos de segurança.
@@ -87,8 +94,8 @@ Abaixo alguns projetos que estou desenvolvendo ou mantendo, com foco em automaç
   <a href="https://github.com/seu-usuario">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:gsinacio04@gmail.com">
+    <img src="https://img.shields.io/badge/-gsinacio04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
