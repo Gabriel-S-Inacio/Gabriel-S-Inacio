@@ -30,6 +30,7 @@ Sou estudante de **Engenharia de Software**, com interesse em **back-end**, **sc
 </p>
 
 ---
+
 ## 📘 Conhecimentos em Desenvolvimento
 
 - ✅ Administração básica de sistemas Linux (em progresso com leitura do livro)
@@ -50,6 +51,30 @@ Sou estudante de **Engenharia de Software**, com interesse em **back-end**, **sc
 - Ajudando no desenvolvimento de soluções back-end simples
 - Explorando e aplicando boas práticas em segurança e organização de sistemas
 - Criando documentação técnica clara e acessível
+
+---
+
+## 🧪 Projetos em Destaque
+
+Abaixo alguns projetos que estou desenvolvendo ou mantendo, com foco em automação, scripts, infraestrutura e segurança da informação:
+
+### 🔧 Ferramentas e Scripts
+
+- **[WinRepair4](https://github.com/seu-usuario/WinRepair4)** — Script de manutenção avançada para Windows, com menus interativos em PowerShell.
+- **[LinuxTools](https://github.com/seu-usuario/LinuxTools)** — Scripts de automação e otimização para ambientes Linux.
+- **[PowerTasks](https://github.com/seu-usuario/PowerTasks)** — Automatização de tarefas administrativas com PowerShell.
+
+### 🌐 Web e Portfólio
+
+- **[Agenda Digital](https://github.com/seu-usuario/Agenda-Digital)** — Sistema de agendamento de serviços, com foco em usabilidade.
+- **[Portfólio Web](https://github.com/seu-usuario/Portfolio-Web)** — Página interativa para exibição de habilidades e projetos.
+
+### 🔐 Segurança e Infraestrutura
+
+- **[PentestLab](https://github.com/seu-usuario/PentestLab)** — Laboratório local para simulação de ataques e estudos de segurança.
+- **[Servidor Local](https://github.com/seu-usuario/Servidor-Projetos)** — Configuração de ambiente Linux com Docker e serviços para hospedagem local.
+
+> 🔎 Veja todos os meus repositórios em [github.com/seu-usuario](https://github.com/seu-usuario)
 
 ---
 
