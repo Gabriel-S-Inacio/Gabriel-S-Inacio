@@ -61,7 +61,7 @@ Abaixo alguns projetos que estou desenvolvendo ou mantendo, com foco em automaç
 
 ### 🔧 Ferramentas e Scripts
 
-- **[WinRepair4]([https://github.com/seu-usuario/WinRepair4](https://github.com/Gabriel-S-Inacio/Gabriel-S-Inacio/blob/main/WinRepair4.zip))** — Script de manutenção avançada para Windows, com menus interativos em PowerShell.
+- **[WinRepair4](https://github.com/Gabriel-S-Inacio/Gabriel-S-Inacio/blob/main/WinRepair4.zip)** — Script de manutenção avançada para Windows, com menus interativos em PowerShell.
 - **[LinuxTools](https://github.com/seu-usuario/LinuxTools)** — Scripts de automação e otimização para ambientes Linux.
 - **[PowerTasks](https://github.com/seu-usuario/PowerTasks)** — Automatização de tarefas administrativas com PowerShell.
 
