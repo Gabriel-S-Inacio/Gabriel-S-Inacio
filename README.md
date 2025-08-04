@@ -61,14 +61,14 @@ Abaixo alguns projetos que estou desenvolvendo ou mantendo, com foco em automaç
 
 ### 🔧 Ferramentas e Scripts
 
-- **[WinRepair4](https://github.com/Gabriel-S-Inacio/Gabriel-S-Inacio/blob/main/WinRepair4.zip)** — Script de manutenção avançada para Windows, com menus interativos em PowerShell.
+- **[WinRepair4]((https://github.com/Gabriel-S-Inacio/WinRepair4))** — Script de manutenção avançada para Windows, com menus interativos em PowerShell.
 <!-- - **[LinuxTools](https://github.com/seu-usuario/LinuxTools)** — Scripts de automação e otimização para ambientes Linux.
 - **[PowerTasks](https://github.com/seu-usuario/PowerTasks)** — Automatização de tarefas administrativas com PowerShell. -->
 
 ### 🌐 Web e Portfólio
 
 <!-- - **[Agenda Digital](https://github.com/seu-usuario/Agenda-Digital)** — Sistema de agendamento de serviços, com foco em usabilidade. -->
-- **[Portfólio Web](https://github.com/Gabriel-S-Inacio/Gabriel-S-Inacio/blob/main/Gabriel%20Portif%C3%B3lio.zip)** — Página interativa para exibição de habilidades e projetos.
+- **[Portfólio Web](https://github.com/Gabriel-S-Inacio/pagina-pessoal)** — Página interativa para exibição de habilidades e projetos.
 
 <!-- ### 🖼️ Páginas Web Criadas
 
@@ -78,7 +78,7 @@ Abaixo alguns projetos que estou desenvolvendo ou mantendo, com foco em automaç
 
 ### 🔐 Segurança e Infraestrutura
 
-- **[CyberSec Lab](https://github.com/seu-usuario/PentestLab)** — Laboratório local para simulação de ataques e estudos de segurança.
+- **[CyberSec Lab](https://github.com/Gabriel-S-Inacio/CyberSec-lab)** — Laboratório local para simulação de ataques e estudos de segurança.
 <!-- - **[Servidor Local](https://github.com/seu-usuario/Servidor-Projetos)** — Configuração de ambiente Linux com Docker e serviços para hospedagem local. -->
 
 > 🔎 Veja todos os meus repositórios em https://github.com/Gabriel-S-Inacio?tab=repositories
