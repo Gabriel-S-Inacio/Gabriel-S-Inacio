@@ -1,92 +1,139 @@
 <h1 align="center">Gabriel Santos Inácio</h1>
 
 <p align="center">
-  <b>Análise de Projetos • Organização de Demandas • Automação de Processos</b><br>
-  Estudante de Engenharia de Software (UNIPAR) • Foco em eficiência, clareza e suporte à tomada de decisão
+Technology Project Operations • Business Analysis • Requirements Engineering
+</p>
+
+<p align="center">
+Transformando necessidades de negócio em entregas mais organizadas, previsíveis e eficientes.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Projects-Operations-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business-Analysis-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Requirements-Engineering-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Python-444444?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💼 Sobre mim
+# 👨‍💼 Sobre
 
-Atuo com **análise, organização e acompanhamento de demandas**, apoiando times técnicos e áreas de negócio na execução de projetos e iniciativas. Tenho experiência com **levantamento de requisitos, documentação, mapeamento de processos** e suporte à integração de colaboradores.
+Atuo na interface entre **negócio, operações e tecnologia**, apoiando a organização de demandas, refinamento de requisitos e melhoria contínua da entrega.
 
-Minha base técnica em **automação, scripts e sistemas operacionais** me permite entender o contexto técnico das entregas e contribuir para decisões mais claras, processos mais organizados e execuções mais eficientes.
+Minha atuação combina **visão operacional, autonomia técnica e capacidade analítica** para transformar necessidades em processos mais claros, decisões orientadas por dados e entregas mais previsíveis.
 
-Sou estudante de **Engenharia de Software**, com interesse em **processos, automação, organização operacional e tecnologia como apoio ao negócio**.
+Atualmente concentro minha atuação e desenvolvimento em:
 
----
-
-## 🧠 Principais Competências
-
-- Organização e acompanhamento de demandas e tarefas  
-- Alinhamento entre áreas técnicas e áreas de negócio  
-- Apoio no levantamento de requisitos e definição de escopo  
-- Documentação de processos e fluxos operacionais  
-- Identificação de melhorias e otimização de rotinas  
-- Suporte à integração e orientação de novos colaboradores  
+- Gestão de Projetos & Operações Tech
+- Engenharia de Requisitos
+- Gestão e Melhoria de Processos
+- SQL e Análise de Dados
+- Python para Automação
+- Inteligência Artificial aplicada à eficiência operacional
 
 ---
 
-## 🧰 Ferramentas e Conhecimentos Técnicos
+# 🧠 Principais Competências
+
+<table>
+<tr>
+<td>
+
+### Gestão & Operações
+- Gestão de Projetos
+- Gestão de Processos
+- Planejamento Operacional
+- Execução e Entrega
+
+</td>
+
+<td>
+
+### Negócio & Produto
+- Engenharia de Requisitos
+- Business Analysis
+- Comunicação Interfuncional
+- Refinamento de Demandas
+
+</td>
+
+<td>
+
+### Tecnologia
+- SQL
+- Python
+- Automação
+- Inteligência Artificial
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚙️ Stack Aplicada
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
 
-> Utilizo tecnologia principalmente como **ferramenta de apoio à organização, automação e eficiência operacional**.
+<img src="https://skillicons.dev/icons?i=python"/>
 
----
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
-## 🧪 Projetos e Iniciativas
+<img src="https://skillicons.dev/icons?i=git"/>
 
-Repositórios que demonstram minha capacidade de **análise, organização, automação e estruturação técnica**:
+<img src="https://skillicons.dev/icons?i=linux"/>
 
-### 🔧 Automação e Suporte Técnico
+<img src="https://skillicons.dev/icons?i=bash"/>
 
-- **[WinRepair4](https://github.com/Gabriel-S-Inacio/WinRepair4)**  
-  Script em PowerShell para manutenção de sistemas Windows, com menus interativos e foco em padronização e eficiência operacional.
-
-### 🔐 Infraestrutura e Estudos Técnicos
-
-- **[CyberSec Lab](https://github.com/Gabriel-S-Inacio/CyberSec-lab)**  
-  Ambiente de laboratório para estudos de segurança da informação, simulações e entendimento de cenários técnicos.
-
-### 🌐 Portfólio
-
-- **[Portfólio Web](https://github.com/Gabriel-S-Inacio/pagina-pessoal)**  
-  Página para apresentação de projetos, habilidades e iniciativas.
-
-> 🔎 Todos os repositórios: https://github.com/Gabriel-S-Inacio?tab=repositories
-
----
-
-## 📘 Formação Acadêmica
-
-**Engenharia de Software**  
-Universidade Paranaense – UNIPAR  
-*Cursando – 3º período*  
-Previsão de conclusão: **2028**
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielinacio-techops">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gsinacio04@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
-  🚀 Tecnologia como meio. Organização, clareza e impacto como objetivo.
+
+SQL • Python • PostgreSQL • PowerShell • Git • Linux
+
+</p>
+
+---
+
+# 🧩 Iniciativas e Laboratórios
+
+### ⚙️ Operations Report Automation
+Automação de relatórios operacionais utilizando Python e geração de indicadores.
+
+### 📊 Business Analytics Lab
+Análises orientadas por dados aplicadas a cenários operacionais e de negócio.
+
+### 📘 Requirements Engineering Framework
+Documentação funcional, critérios de aceite e estruturação de requisitos.
+
+---
+
+# 📚 Formação
+
+🎓 Engenharia de Software — UNIPAR  
+Graduação em andamento
+
+---
+
+# 🌐 Conecte-se
+
+<p align="center">
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+Tecnologia aplicada à organização, eficiência operacional e geração de valor.
+
 </p>
