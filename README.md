@@ -1,36 +1,32 @@
 <h1 align="center">Gabriel Santos Inácio</h1>
 
 <p align="center">
-Technology Project Operations • Business Analysis • Requirements Engineering
+Project Operations Tech • Business Analysis • Requirements Engineering • Data & IA
 </p>
 
 <p align="center">
-Transformando necessidades de negócio em entregas mais organizadas, previsíveis e eficientes.
+Interface entre Negócio e Engenharia de Software, coordenando fluxos e otimizando processos orientados a dados.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Projects-Operations-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business-Analysis-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Requirements-Engineering-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-Python-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tech_Operations-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agile_Frameworks-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Requirements-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL_%26_Python-444444?style=for-the-badge"/>
 </p>
 
 ---
 
 # 👨‍💼 Sobre
 
-Atuo na interface entre **negócio, operações e tecnologia**, apoiando a organização de demandas, refinamento de requisitos e melhoria contínua da entrega.
+Atuo na interface entre necessidades de negócio, squads de tecnologia e engenharia de software, com foco em estabelecer governança, eficiência operacional e organização de fluxos em ambientes de desenvolvimento.
 
-Minha atuação combina **visão operacional, autonomia técnica e capacidade analítica** para transformar necessidades em processos mais claros, decisões orientadas por dados e entregas mais previsíveis.
+Integrando equipe de Pesquisa e Desenvolvimento (P&D), possuo experiência prática na coordenação de fluxo e facilitação de squads multidisciplinares voltadas ao ecossistema de **sistemas web, arquiteturas de integração (APIs) e soluções em Inteligência Artificial** (como chatbots e automações). Concilio a visão de gestão à autonomia técnica, utilizando ferramentas analíticas para garantir previsibilidade e mitigar gargalos operacionais.
 
-Atualmente concentro minha atuação e desenvolvimento em:
-
-- Gestão de Projetos & Operações Tech
-- Engenharia de Requisitos
-- Gestão e Melhoria de Processos
-- SQL e Análise de Dados
-- Python para Automação
-- Inteligência Artificial aplicada à eficiência operacional
+- 🚀 Coordenação de Fluxo (Kanban, Scrumban) e capacidade técnica de times.
+- 🎯 Engenharia de Requisitos, validação prévia de demandas (DoR) e critérios de aceite.
+- 📊 Extração de métricas de vazão com **SQL** e automação de relatórios com **Python**.
+- 🧠 Engenharia de Prompt aplicada à eficiência operacional e estruturação de bases de conhecimento.
 
 ---
 
@@ -40,31 +36,31 @@ Atualmente concentro minha atuação e desenvolvimento em:
 <tr>
 <td>
 
-### Gestão & Operações
-- Gestão de Projetos
-- Gestão de Processos
-- Planejamento Operacional
-- Execução e Entrega
+### Gestão Ágil & Fluxo
+- Frameworks Ágeis (Scrumban/Kanban)
+- Métricas de Fluxo & Controle de WIP
+- Mapeamento de Processos (As-Is/To-Be)
+- Otimização de Esteiras de Entrega
 
 </td>
 
 <td>
 
-### Negócio & Produto
+### Negócio & Requisitos
 - Engenharia de Requisitos
-- Business Analysis
-- Comunicação Interfuncional
-- Refinamento de Demandas
+- Business Analysis (BA)
+- Definição de DoR / DoD
+- Escrita de User Stories & Critérios
 
 </td>
 
 <td>
 
-### Tecnologia
-- SQL
-- Python
-- Automação
-- Inteligência Artificial
+### Dados & Automação
+- Consultas SQL (PostgreSQL)
+- Automação de Processos (Python)
+- Engenharia de Prompt (IA)
+- Centralização de Documentação (Wikis)
 
 </td>
 </tr>
@@ -75,65 +71,47 @@ Atualmente concentro minha atuação e desenvolvimento em:
 # ⚙️ Stack Aplicada
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
-
+<img src="https://skillicons.dev/icons?i=python,postgres,git,linux,bash,bitrix" />
 </p>
 
 <p align="center">
-
-SQL • Python • PostgreSQL • PowerShell • Git • Linux
-
+SQL • Python • PostgreSQL • Git • Bash • Bitrix24 / Jira / Confluence
 </p>
 
 ---
 
-# 🧩 Iniciativas e Laboratórios
+# 🧩 Projetos e Laboratórios Operacionais
 
-### ⚙️ Operations Report Automation
-Automação de relatórios operacionais utilizando Python e geração de indicadores.
+### ⚙️ [Operations Report Automation](https://github.com/gabrielinacio-techops)
+Desenvolvimento de scripts em **Python** focados em Tech Ops para consumo de APIs de sistemas de gestão, tratamento de dados operacionais e geração automatizada de relatórios de volumetria e performance de fluxos.
 
-### 📊 Business Analytics Lab
-Análises orientadas por dados aplicadas a cenários operacionais e de negócio.
+### 📊 [Business Analytics & SQL Lab](https://github.com/gabrielinacio-techops)
+Modelagem de dados relacionais e construção de consultas complexas em **SQL (PostgreSQL)** aplicadas a cenários de negócio, extraindo métricas de vazão (*Throughput*), tempos de ciclo e mapeamento de gargalos em esteiras de teste/homologação.
 
-### 📘 Requirements Engineering Framework
-Documentação funcional, critérios de aceite e estruturação de requisitos.
+### 📘 [Requirements Engineering & IA Framework](https://github.com/gabrielinacio-techops)
+Estruturação de especificações técnicas, mapeamento de jornadas de usuários e regras de negócio para **integração de sistemas web e soluções baseadas em IA (Chatbots)**, utilizando engenharia de prompt para aceleração de documentação funcional.
 
 ---
 
 # 📚 Formação
 
-🎓 Engenharia de Software — UNIPAR  
-Graduação em andamento
+🎓 **Bacharelado em Engenharia de Software** — Universidade Paranaense (UNIPAR)  
+*Graduação em andamento (3º período)*
 
 ---
 
 # 🌐 Conecte-se
 
 <p align="center">
-
-<a href="SEU_LINKEDIN">
+<a href="https://linkedin.com/in/gabriel-santos-inacio">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
 </a>
-
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:gsinacio04@gmail.com">
 <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail"/>
 </a>
-
 </p>
 
 ---
-
 <p align="center">
-
-Tecnologia aplicada à organização, eficiência operacional e geração de valor.
-
+Tecnologia aplicada à organização, eficiência operacional e governança de processos.
 </p>
