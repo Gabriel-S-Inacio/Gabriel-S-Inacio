@@ -103,7 +103,7 @@ Estruturação de especificações técnicas, mapeamento de jornadas de usuário
 # 🌐 Conecte-se
 
 <p align="center">
-<a href="www.linkedin.com/in/gabrielinacio-techops">
+<a href="https://www.linkedin.com/in/gabrielinacio-techops/">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:gsinacio04@gmail.com">
