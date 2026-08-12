@@ -71,7 +71,7 @@ Integrando equipe de Pesquisa e Desenvolvimento (P&D), possuo experiência prát
 # ⚙️ Stack Aplicada
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,postgres,ssms,git,linux,bash,bitrix" />
+<img src="https://skillicons.dev/icons?i=python,postgres,ssmssql,git,linux,bash,bitrix" />
 </p>
 
 <p align="center">
