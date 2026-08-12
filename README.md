@@ -71,7 +71,7 @@ Integrando equipe de Pesquisa e Desenvolvimento (P&D), possuo experiência prát
 # ⚙️ Stack Aplicada
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,postgres,ssmssql,git,linux,bash,bitrix" />
+<img src="https://skillicons.dev/icons?i=python,postgres,git,linux,bash,bitrix" />
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ Estruturação de especificações técnicas, mapeamento de jornadas de usuário
 # 📚 Formação
 
 🎓 **Bacharelado em Engenharia de Software** — Universidade Paranaense (UNIPAR)  
-*Graduação em andamento (3º período)*
+*Graduação em andamento (4º período)*
 
 ---
 
