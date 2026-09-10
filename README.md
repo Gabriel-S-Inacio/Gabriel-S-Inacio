@@ -39,16 +39,17 @@ Sou graduando em **Engenharia de Software** e direciono meu desenvolvimento para
   <img src="https://skillicons.dev/icons?i=python,postgres,git,linux,bash,postman,docker" />
 </p>
 
-**Data & Analytics:** SQL • PostgreSQL • Data Modeling • KPIs • Data Quality  
-**Data Engineering:** Python • ETL • REST APIs • Data Transformation  
-**Engineering:** Git • Linux • Bash • Postman  
-**Em desenvolvimento:** Docker • Analytics Engineering • Engenharia de Dados
-
+| Área | Tecnologias e práticas |
+|---|---|
+| **Data & Analytics** | SQL • PostgreSQL • Data Modeling • KPIs • Data Quality |
+| **Data Engineering** | Python • ETL • REST APIs • Data Transformation |
+| **Engineering** | Git • Linux • Bash • Postman |
+| **Em desenvolvimento** | Docker • Analytics Engineering • Engenharia de Dados |
 ---
 
 ## Projeto atual
 
-### LeadPulse Analytics
+### [LeadPulse Analytics](https://github.com/Gabriel-S-Inacio/leadpulse-analytics)
 
 **Analytics • SQL • PostgreSQL • Data Modeling • KPIs**
 
@@ -62,7 +63,7 @@ Projeto focado na transformação de dados comerciais e operacionais em informa�
 
 | Etapa | Projeto | Foco | Status |
 |---|---|---|---|
-| 01 | **LeadPulse Analytics** | Analytics • SQL • Data Modeling | Em desenvolvimento |
+| 01 | [**LeadPulse Analytics**](https://github.com/Gabriel-S-Inacio/leadpulse-analytics) | Analytics • SQL • Data Modeling | Em desenvolvimento |
 | 02 | **Data Pipeline 360** | APIs • ETL • Data Engineering | Planejado |
 | 03 | **TaskGuard AI** | Applied Machine Learning | Planejado |
 | 04 | **FraudLens** | Data Science | Planejado |
@@ -91,7 +92,17 @@ Graduação em andamento.
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-s-inacio/">LinkedIn</a>
-  •
-  <a href="mailto:gsinacio04@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/gabriel-s-inacio/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gsinacio04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5545999466921">
+    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Negócio • Processos • Tecnologia • Dados</strong>
 </p>
