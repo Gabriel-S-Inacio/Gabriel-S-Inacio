@@ -40,8 +40,6 @@ Sou graduando em **Engenharia de Software** e direciono meu desenvolvimento para
 </p>
 
 <p align="center">
-| Área | Tecnologias e práticas |
-|---|---|
 | **Data & Analytics** | SQL • PostgreSQL • Data Modeling • KPIs • Data Quality |
 | **Data Engineering** | Python • ETL • REST APIs • Data Transformation |
 | **Engineering** | Git • Linux • Bash • Postman |
