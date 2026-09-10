@@ -26,28 +26,29 @@ Sou graduando em Engenharia de Software e direciono meu desenvolvimento para **D
 
 # Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,linux,bash" />
+</p>
+
+<p align="center">
+  SQL • Python • PostgreSQL • Git • Linux • Bash
+</p>
+
 ### Data & Analytics
-- SQL
-- PostgreSQL
 - Data Analysis
 - Data Modeling
 - KPIs
 - Data Quality
 
 ### Data Engineering
-- Python
 - ETL
 - REST APIs
 - Data Transformation
 - Process Automation
 
 ### Engineering
-- Git
-- Linux
-- Bash
 - Software Engineering
 - Requirements Engineering
-
 ---
 
 # Data Journey
@@ -134,6 +135,9 @@ Graduação em andamento.
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-s-inacio/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
+  </a>
+    <a href="mailto:gsinacio04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
