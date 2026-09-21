@@ -143,36 +143,28 @@ O portfólio é construído como uma trilha progressiva, onde cada projeto adici
 
   <tr>
     <td>02</td>
-    <td>
-      <strong>Data Pipeline 360</strong>
-    </td>
+    <td><strong>Data Pipeline 360</strong></td>
     <td>APIs • ETL • Data Engineering</td>
     <td><strong>Em desenvolvimento</strong></td>
   </tr>
 
   <tr>
     <td>03</td>
-    <td>
-      <strong>TaskGuard AI</strong>
-    </td>
+    <td><strong>TaskGuard AI</strong></td>
     <td>Applied Machine Learning</td>
     <td>Planejado</td>
   </tr>
 
   <tr>
     <td>04</td>
-    <td>
-      <strong>FraudLens</strong>
-    </td>
+    <td><strong>FraudLens</strong></td>
     <td>Data Science • Anomaly Detection</td>
     <td>Planejado</td>
   </tr>
 
   <tr>
     <td>05</td>
-    <td>
-      <strong>Sentinel DataOps Intelligence</strong>
-    </td>
+    <td><strong>Sentinel DataOps Intelligence</strong></td>
     <td>Data Platform • DataOps • AI</td>
     <td>Planejado</td>
   </tr>
@@ -250,11 +242,9 @@ A proposta é documentar não apenas o resultado final dos projetos, mas também
 
 **implementação → arquitetura → dados → análise → decisão**
 
-<p align="center">
-  <a href="https://docodigoadecisao.com.br">
-    <img src="https://img.shields.io/badge/Acessar%20Portfólio-docodigoadecisao.com.br-3B82F6?style=for-the-badge"/>
-  </a>
-</p>
+Acesse em:
+
+**[docodigoadecisao.com.br](https://docodigoadecisao.com.br)**
 
 ---
 
@@ -262,7 +252,7 @@ A proposta é documentar não apenas o resultado final dos projetos, mas também
 
 <p align="center">
   <a href="https://docodigoadecisao.com.br">
-    <img src="https://img.shields.io/badge/Portfólio-Do%20Código%20à%20Decisão-3B82F6?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Do%20Código%20à%20Decisão-3B82F6?style=for-the-badge"/>
   </a>
 
   <a href="https://www.linkedin.com/in/gabriel-s-inacio/">
