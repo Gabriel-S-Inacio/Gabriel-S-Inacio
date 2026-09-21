@@ -13,6 +13,9 @@
 </p>
 
 <p align="center">
+  <a href="https://docodigoadecisao.com.br">
+    <img src="https://img.shields.io/badge/Portfólio-Do%20Código%20à%20Decisão-3B82F6?style=for-the-badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/gabriel-s-inacio/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -25,11 +28,19 @@
 
 ## Sobre
 
-Atuo entre negócio, operações, tecnologia e dados, transformando necessidades do negócio em processos, soluções e informações que apoiam decisões.
+Atuo na interseção entre **negócio, operações, tecnologia e dados**, transformando necessidades operacionais em processos, sistemas e informações que apoiam decisões.
 
 Minha trajetória começou em **Projetos, Processos e Engenharia de Requisitos** e evoluiu para uma atuação prática com **SQL, Python, PostgreSQL, APIs REST, ETL, modelagem de dados, KPIs, qualidade da informação e automação**.
 
-Sou graduando em **Engenharia de Software** e direciono meu desenvolvimento para **Data & Analytics**, com foco crescente em **Analytics Engineering e Engenharia de Dados**.
+Sou graduando em **Engenharia de Software** e direciono meu desenvolvimento para **Data & Analytics**, com evolução progressiva em **Analytics Engineering e Engenharia de Dados**.
+
+Hoje, meus projetos seguem uma trilha prática de evolução:
+
+**Analytics → Data Engineering → Machine Learning → Data Science → Data Platforms**
+
+O portfólio completo está disponível em:
+
+**[docodigoadecisao.com.br](https://docodigoadecisao.com.br)**
 
 ---
 
@@ -46,18 +57,27 @@ Sou graduando em **Engenharia de Software** e direciono meu desenvolvimento para
     <th>Área</th>
     <th>Tecnologias e práticas</th>
   </tr>
+
   <tr>
     <td><strong>Data & Analytics</strong></td>
     <td>SQL • PostgreSQL • Data Modeling • KPIs • Data Quality</td>
   </tr>
+
   <tr>
     <td><strong>Data Engineering</strong></td>
     <td>Python • ETL • REST APIs • Data Transformation</td>
   </tr>
+
+  <tr>
+    <td><strong>Architecture & Integration</strong></td>
+    <td>REST APIs • Layered Architecture • System Integration • Raw → Core → Business</td>
+  </tr>
+
   <tr>
     <td><strong>Engineering</strong></td>
-    <td>Git • Linux • Bash • Postman</td>
+    <td>Git • Linux • Bash • Postman • Software Engineering</td>
   </tr>
+
   <tr>
     <td><strong>Em desenvolvimento</strong></td>
     <td>Docker • Analytics Engineering • Engenharia de Dados</td>
@@ -68,15 +88,27 @@ Sou graduando em **Engenharia de Software** e direciono meu desenvolvimento para
 
 ---
 
-## Projeto atual
+## Projetos em destaque
 
 ### [LeadPulse Analytics](https://github.com/Gabriel-S-Inacio/leadpulse-analytics)
 
 **Analytics • SQL • PostgreSQL • Data Modeling • KPIs**
 
-Projeto de Analytics voltado à transformação de dados comerciais e operacionais em métricas confiáveis para análise e tomada de decisão.
+Projeto de Analytics voltado à transformação de dados comerciais e operacionais em informações estruturadas para análise e tomada de decisão.
 
-O projeto explora desde a estruturação e modelagem dos dados até definição de regras de negócio, qualidade, validação e construção de indicadores.
+O trabalho envolve organização e modelagem dos dados, definição de regras de negócio, validação, qualidade da informação e construção de indicadores.
+
+**Status:** Concluído.
+
+> O projeto permanece como o primeiro marco da trilha prática do portfólio.
+
+---
+
+### Data Pipeline 360
+
+**APIs • ETL • Data Engineering**
+
+Projeto voltado à construção de pipelines de dados, integração entre fontes e evolução dos conceitos aplicados anteriormente no LeadPulse para uma abordagem mais orientada à Engenharia de Dados.
 
 **Status:** Em desenvolvimento.
 
@@ -84,7 +116,7 @@ O projeto explora desde a estruturação e modelagem dos dados até definição 
 
 ## Data Journey
 
-O portfólio está sendo construído como uma trilha progressiva, na qual cada projeto adiciona uma nova camada de complexidade técnica.
+O portfólio é construído como uma trilha progressiva, onde cada projeto adiciona uma nova camada de complexidade técnica.
 
 <div align="center">
 
@@ -104,26 +136,22 @@ O portfólio está sendo construído como uma trilha progressiva, na qual cada p
       </a>
     </td>
     <td>Analytics • SQL • Data Modeling</td>
-    <td>Em desenvolvimento</td>
+    <td><strong>Concluído</strong></td>
   </tr>
 
   <tr>
     <td>02</td>
     <td>
-      <a href="https://github.com/Gabriel-S-Inacio/data-pipeline-360">
-        <strong>Data Pipeline 360</strong>
-      </a>
+      <strong>Data Pipeline 360</strong>
     </td>
     <td>APIs • ETL • Data Engineering</td>
-    <td>Planejado</td>
+    <td><strong>Em desenvolvimento</strong></td>
   </tr>
 
   <tr>
     <td>03</td>
     <td>
-      <a href="https://github.com/Gabriel-S-Inacio/taskguard-ai">
-        <strong>TaskGuard AI</strong>
-      </a>
+      <strong>TaskGuard AI</strong>
     </td>
     <td>Applied Machine Learning</td>
     <td>Planejado</td>
@@ -132,9 +160,7 @@ O portfólio está sendo construído como uma trilha progressiva, na qual cada p
   <tr>
     <td>04</td>
     <td>
-      <a href="https://github.com/Gabriel-S-Inacio/fraudlens">
-        <strong>FraudLens</strong>
-      </a>
+      <strong>FraudLens</strong>
     </td>
     <td>Data Science • Anomaly Detection</td>
     <td>Planejado</td>
@@ -143,9 +169,7 @@ O portfólio está sendo construído como uma trilha progressiva, na qual cada p
   <tr>
     <td>05</td>
     <td>
-      <a href="https://github.com/Gabriel-S-Inacio/sentinel-dataops-intelligence">
-        <strong>Sentinel DataOps Intelligence</strong>
-      </a>
+      <strong>Sentinel DataOps Intelligence</strong>
     </td>
     <td>Data Platform • DataOps • AI</td>
     <td>Planejado</td>
@@ -162,23 +186,49 @@ O portfólio está sendo construído como uma trilha progressiva, na qual cada p
 
 Case técnico-documental baseado em uma iniciativa corporativa real na qual atuei, voltada à transformação de dados operacionais em indicadores confiáveis para acompanhamento de desempenho.
 
-O projeto envolveu atividades relacionadas a **extração via API, SQL Server, PostgreSQL, processos ETL, organização de dados em camadas Raw → Core → Business, modelagem, construção e validação de KPIs, qualidade de dados e investigação de inconsistências**.
+O trabalho envolveu atividades relacionadas a:
 
-O case público será utilizado para apresentar:
+- extração de dados via API;
+- SQL Server;
+- PostgreSQL;
+- processos ETL;
+- organização em camadas **Raw → Core → Business**;
+- modelagem de dados;
+- construção e validação de KPIs;
+- qualidade da informação;
+- investigação de inconsistências.
+
+O case público é utilizado para documentar:
 
 - contexto e problema de negócio;
 - fluxo e arquitetura de dados;
 - organização das camadas;
-- modelagem e regras de transformação;
+- modelagem;
+- regras de transformação;
 - processo de validação;
 - construção dos indicadores;
-- investigação de inconsistências;
-- decisões e aprendizados técnicos;
-- diagramas e evidências visuais que possam ser compartilhadas.
+- decisões técnicas;
+- aprendizados.
 
-Por se tratar de uma iniciativa corporativa, **código-fonte, dados reais, credenciais, informações internas e demais conteúdos proprietários não serão disponibilizados**.
+Por se tratar de uma iniciativa corporativa, **código-fonte, dados reais, credenciais, informações internas e demais conteúdos proprietários não são disponibilizados**.
 
-O objetivo é documentar a experiência e as decisões envolvidas no projeto sem expor propriedade intelectual ou informações confidenciais.
+O objetivo é documentar a experiência e as decisões envolvidas sem expor propriedade intelectual ou informações confidenciais.
+
+---
+
+## Certificação profissional
+
+### CPSA-F
+
+**Certified Professional for Software Architecture — Foundation Level**
+
+**iSAQB — International Software Architecture Qualification Board**
+
+Certificação obtida em **setembro de 2026**, voltada aos fundamentos de arquitetura de software, incluindo requisitos arquiteturais, atributos de qualidade, documentação, comunicação e estruturação de sistemas.
+
+As credenciais e demais informações de formação estão disponíveis no portfólio:
+
+**[Formação & Certificações — Do Código à Decisão](https://docodigoadecisao.com.br/#formacao)**
 
 ---
 
@@ -190,9 +240,29 @@ Graduação em andamento.
 
 ---
 
+## Do Código à Decisão
+
+O **Do Código à Decisão** é o HUB que centraliza meus projetos, cases, formação e evolução técnica.
+
+A proposta é documentar não apenas o resultado final dos projetos, mas também o caminho entre:
+
+**implementação → arquitetura → dados → análise → decisão**
+
+<p align="center">
+  <a href="https://docodigoadecisao.com.br">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-docodigoadecisao.com.br-3B82F6?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 ## Contato
 
 <p align="center">
+  <a href="https://docodigoadecisao.com.br">
+    <img src="https://img.shields.io/badge/Portfólio-Do%20Código%20à%20Decisão-3B82F6?style=for-the-badge"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/gabriel-s-inacio/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
