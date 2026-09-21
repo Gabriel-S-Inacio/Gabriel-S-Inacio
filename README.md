@@ -14,11 +14,13 @@
 
 <p align="center">
   <a href="https://docodigoadecisao.com.br">
-    <img src="https://img.shields.io/badge/Portfólio-Do%20Código%20à%20Decisão-3B82F6?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Do%20Código%20à%20Decisão-3B82F6?style=for-the-badge"/>
   </a>
+
   <a href="https://www.linkedin.com/in/gabriel-s-inacio/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:gsinacio04@gmail.com">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
