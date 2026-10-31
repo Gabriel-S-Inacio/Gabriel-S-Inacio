@@ -1,115 +1,176 @@
-<h1 align="center">Gabriel Santos Inácio</h1><p align="center">
-  <strong>Projetos & Operações de Tecnologia • Engenharia de Software • Dados & Analytics</strong>
-</p><p align="center">
-  Automações & Integrações • Desenvolvimento de Aplicações • Governança de Dados
-</p><p align="center">
-  <strong>Conectando tecnologia, operações e negócio.</strong><br>
-  Do problema ao código. Do código aos dados. Dos dados à decisão.
-</p><p align="center">
-  <a href="https://docodigoadecisao.com.br">
-    <img alt="Portfólio Do Código à Decisão" src="https://img.shields.io/badge/Do%20C%C3%B3digo%20%C3%A0%20Decis%C3%A3o-3B82F6?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-s-inacio/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gsinacio04@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>Sobre mim
-Sou Analista de Projetos e Operações, com atuação multidisciplinar em tecnologia. Combino a orquestração de demandas, processos e entregas com a participação técnica na construção de soluções, conectando equipes de engenharia e áreas de negócio.
 
-Minha atuação envolve frentes de Automações e Integrações, Engenharia de IA, Desenvolvimento Web e Aplicações, Governança de Dados e Operações & Projetos, além de interfaces com Marketing, Growth e Comercial.
+<div align="center">
 
-No trabalho, contribuo para estruturar requisitos, alinhar prioridades, acompanhar dependências e validar entregas. Na dimensão técnica, atuo em iniciativas relacionadas a APIs, desenvolvimento de software, SQL, Python, PostgreSQL, integrações, ETL e Analytics, conforme o escopo de cada projeto.
+# Gabriel Santos Inácio
 
-Sou graduando em Engenharia de Software pela Universidade Paranaense (UNIPAR). Neste GitHub, priorizo projetos concluídos e cases documentados, com foco no problema, nas decisões técnicas, na contribuição realizada e nas evidências disponíveis.
+### Projetos & Operações de Tecnologia | Engenharia de Software | Dados & Analytics
 
-Portfólio: docodigoadecisao.com.br
-Frentes de atuação
-Frente	Contribuições
-Projetos & Operações	Estruturação de demandas, acompanhamento de entregas, gestão de dependências, critérios de aceite e integração entre equipes.
-Automações & Integrações	Análise e implementação de fluxos, APIs e integração entre sistemas.
-Engenharia & Aplicações	Participação em soluções de backend, aplicações web, arquitetura e documentação técnica.
-Dados & Governança	Modelagem, ETL, qualidade da informação, validação de indicadores e análise de inconsistências.
-Engenharia de IA	Interface com iniciativas de IA, requisitos, integração e acompanhamento de soluções.
-Tecnologia & Negócio	Conexão entre times técnicos e áreas como Marketing, Growth e Comercial.
+**Conectando tecnologia, operações e negócio.**
 
+Atuação híbrida em projetos, operações e engenharia, conectando equipes,
+processos, sistemas e dados para transformar demandas em soluções.
 
-A atuação em diferentes frentes não implica autoria individual de todas as entregas. Os cases detalham o contexto e distinguem contribuições próprias de resultados coletivos.
+<br>
 
-Projetos e cases em destaque
-01 · LeadPulse Analytics
-Engenharia de Dados • Analytics Engineering • PostgreSQL • Python • dbt
+[![Portfólio](https://img.shields.io/badge/DO_CÓDIGO_À_DECISÃO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docodigoadecisao.com.br)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-s-inacio/)
+[![Email](https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsinacio04@gmail.com)
 
-Projeto concluído de Analytics que organiza um fluxo de dados desde a ingestão e a transformação até a disponibilização de informações para análise e tomada de decisão.
+</div>
 
-O que o projeto demonstra:
-- Ingestão e processamento de dados com Python.
-- Persistência e modelagem em PostgreSQL.
-- Transformações analíticas e testes com dbt.
-- Estruturação de indicadores e modelos de consumo.
-- Verificações de qualidade e consistência dos dados.
-- Documentação e instruções de execução reproduzível.
-Tecnologias: Python · SQL · PostgreSQL · dbt · Docker · Streamlit
+---
 
-Evidências e detalhes: repositório e documentação técnica.
-02 · SMD — Sistema de Medição de Desempenho
-Case profissional • Operações • Integrações • Governança de Dados • KPIs
+## Sobre mim
 
-Case técnico-documental baseado em uma iniciativa corporativa real, voltada à organização de informações operacionais e à construção de indicadores confiáveis para acompanhamento de desempenho.
+Sou **Analista de Projetos e Operações**, com atuação multidisciplinar em tecnologia, combinando a **orquestração de projetos e equipes técnicas** com a participação prática na construção de soluções.
 
-Aspectos documentados:
-- Integração e extração de informações por APIs, incluindo o contexto do Bitrix24.
-- Processamento e transformação de dados com SQL e rotinas ETL.
-- Uso de SQL Server e PostgreSQL no contexto descrito pelo case.
-- Organização em camadas Raw → Core → Business.
-- Modelagem, regras de negócio e definição de indicadores.
-- Validação de KPIs, investigação de divergências e qualidade da informação.
-- Articulação entre necessidades operacionais, equipes técnicas e decisões de implementação.
-O repositório descreve o contexto, a arquitetura, as decisões e as contribuições documentáveis. O case apresenta entregas e práticas realizadas; não pressupõe que todo o sistema corporativo esteja encerrado.
+Atuo na conexão entre diferentes frentes tecnológicas — **Automações e Integrações, Engenharia de IA, Desenvolvimento Web e Aplicações, Governança de Dados e Operações** — além da interface com áreas de negócio, como Marketing, Growth e Comercial.
 
-Por confidencialidade, código-fonte proprietário, dados reais, credenciais e informações internas não são publicados.
+Minha experiência reúne gestão de demandas, engenharia de requisitos, integração entre sistemas, desenvolvimento de software e soluções orientadas por dados.
 
-Evidências e detalhes: case técnico-documental.
-Stack e práticas
-<p align="center">
-  <img alt="Tecnologias: Python, PostgreSQL, Git, Linux, Bash, Postman e Docker" src="https://skillicons.dev/icons?i=python,postgres,git,linux,bash,postman,docker" />
-</p>Domínio	Tecnologias e práticas aplicadas
-Desenvolvimento & Integrações	Python · APIs REST · Integração de sistemas · Arquitetura em camadas
-Dados & Analytics	SQL · PostgreSQL · SQL Server · Modelagem de dados · KPIs · Data Quality
-Pipelines & Transformações	ETL/ELT · dbt · Raw → Core → Business · Validação de dados
-Ferramentas de engenharia	Git · GitHub · Linux · Bash · Postman · Docker
-Projetos & Operações	Engenharia de Requisitos · Documentação técnica · Scrum · Kanban · Critérios de aceite · Governança de processos
+Sou graduando em **Engenharia de Software pela UNIPAR** e certificado **CPSA-F pelo iSAQB**, com interesse especial em arquitetura de software, backend, integrações e engenharia de dados.
 
+> **Do problema ao código. Do código aos dados. Dos dados à decisão.**
 
-As competências acima combinam experiência profissional, acadêmica e projetos práticos. A profundidade de cada tecnologia está detalhada nos respectivos repositórios.
-Formação e certificação
-Bacharelado em Engenharia de Software
-Universidade Paranaense — UNIPAR
+---
+
+## Áreas de atuação
+
+| Frente | Experiência e competências |
+|:---|:---|
+| **Projetos & Operações** | Gestão de demandas, planejamento, acompanhamento de entregas, metodologias ágeis e integração entre equipes. |
+| **Engenharia de Software** | Desenvolvimento backend, APIs REST, arquitetura de aplicações e engenharia de requisitos. |
+| **Automações & Integrações** | Integrações entre sistemas, automação de processos, APIs e fluxos operacionais. |
+| **Dados & Analytics** | SQL, PostgreSQL, Python, ETL, modelagem de dados, qualidade da informação e indicadores. |
+| **Governança & Processos** | Estruturação de processos, documentação, regras de negócio, validações e indicadores de desempenho. |
+| **Tecnologia & Negócio** | Alinhamento de requisitos, priorização de demandas e conexão com stakeholders de diferentes áreas. |
+
+---
+
+## Projetos & Cases em destaque
+
+### 01. LeadPulse Analytics
+
+**Engenharia de Dados · Analytics Engineering · Business Intelligence**
+
+Projeto de engenharia e análise de dados com arquitetura estruturada para ingestão, transformação, modelagem e disponibilização de informações analíticas.
+
+**Principais implementações:**
+
+- Pipeline de ingestão e processamento com Python.
+- Persistência e modelagem de dados em PostgreSQL.
+- Transformações e testes de qualidade com dbt.
+- Estruturação de camadas analíticas.
+- Construção de indicadores e dashboard.
+- Ambiente reproduzível com Docker.
+
+**Stack:** `Python` `SQL` `PostgreSQL` `dbt` `Docker` `Streamlit`
+
+[![Ver projeto](https://img.shields.io/badge/VER_REPOSITÓRIO-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabriel-S-Inacio/leadpulse-analytics)
+
+---
+
+### 02. SMD — Sistema de Medição de Desempenho
+
+**Operações de Tecnologia · Integrações · Governança de Dados**
+
+Case técnico-documental baseado em uma iniciativa corporativa real, voltada à estruturação de informações operacionais e à construção de indicadores confiáveis para acompanhamento de desempenho.
+
+**Principais frentes abordadas:**
+
+- Integração de informações operacionais via APIs.
+- Extração, transformação e organização dos dados.
+- Arquitetura de dados em camadas `Raw → Core → Business`.
+- Modelagem de dados e definição de regras de negócio.
+- Construção e validação de indicadores de desempenho.
+- Investigação de inconsistências e qualidade da informação.
+- Integração entre necessidades operacionais e soluções técnicas.
+
+**Tecnologias:** `Python` `SQL` `PostgreSQL` `SQL Server` `APIs REST` `Bitrix24`
+
+[![Ver case](https://img.shields.io/badge/VER_CASE_TÉCNICO-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabriel-S-Inacio/smd-case-study)
+
+<sub>Case documentado com preservação da confidencialidade corporativa. Código proprietário, dados reais e informações internas não são disponibilizados.</sub>
+
+---
+
+## Stack & Competências Técnicas
+
+<div align="center">
+
+**Linguagens, desenvolvimento e dados**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,postgres&perline=6" alt="Python, JavaScript, TypeScript, Node.js, React e PostgreSQL">
+
+<br><br>
+
+**Ferramentas, infraestrutura e versionamento**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman&perline=6" alt="Git, GitHub, Docker, Linux, Bash e Postman">
+
+<br><br>
+
+</div>
+
+| Domínio | Tecnologias e práticas |
+|:---|:---|
+| **Backend & APIs** | Python, Node.js, TypeScript, REST APIs, FastAPI |
+| **Dados & Analytics** | SQL, PostgreSQL, SQL Server, dbt, ETL/ELT, modelagem de dados |
+| **Web & Aplicações** | JavaScript, TypeScript, React, HTML, CSS |
+| **Integrações & Automações** | APIs REST, Bitrix24, n8n, integrações entre sistemas |
+| **Engenharia & Ferramentas** | Git, GitHub, Docker, Linux, Bash, Postman |
+| **Projetos & Processos** | Scrum, Kanban, engenharia de requisitos, documentação técnica e governança |
+
+---
+
+## Formação & Certificação
+
+**Bacharelado em Engenharia de Software**
+
+Universidade Paranaense — UNIPAR  
 Graduação em andamento · Previsão de conclusão: 2028
 
-CPSA-F — Certified Professional for Software Architecture (Foundation Level)
-iSAQB — International Software Architecture Qualification Board
-Certificação obtida em setembro de 2026, com foco em fundamentos de arquitetura de software, atributos de qualidade, decisões arquiteturais e documentação.
+<br>
 
-Formação e certificações no portfólio
-Do Código à Decisão
-O Do Código à Decisão reúne minha trajetória profissional, projetos concluídos, cases técnicos, formação e conteúdos sobre tecnologia.
+**CPSA-F — Certified Professional for Software Architecture**
 
-A proposta é demonstrar não apenas o que foi construído, mas também qual problema motivou a solução, como as decisões foram tomadas e o que pode ser comprovado.
+iSAQB — International Software Architecture Qualification Board  
+Certificação obtida em setembro de 2026.
 
-Problema → Requisitos → Implementação → Dados → Análise → Decisão
-Contato
-<p align="center">
-  <a href="https://docodigoadecisao.com.br">
-    <img alt="Portfólio Do Código à Decisão" src="https://img.shields.io/badge/Do%20C%C3%B3digo%20%C3%A0%20Decis%C3%A3o-3B82F6?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-s-inacio/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gsinacio04@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p><p align="center">
-  <strong>Projetos • Operações • Engenharia • Dados • Negócio</strong>
-</p>
+Fundamentos de arquitetura de software, requisitos arquiteturais, atributos de qualidade, documentação e decisões de projeto.
+
+[![Formação e certificações](https://img.shields.io/badge/VER_FORMAÇÃO_E_CERTIFICAÇÕES-334155?style=flat-square)](https://docodigoadecisao.com.br/#formacao)
+
+---
+
+## Do Código à Decisão
+
+O **Do Código à Decisão** é meu portfólio profissional, reunindo experiências, projetos concluídos, cases técnicos e conhecimentos aplicados em tecnologia.
+
+A proposta é demonstrar não apenas as soluções construídas, mas também os problemas, as decisões e os processos envolvidos em sua implementação.
+
+<div align="center">
+
+### Problema → Engenharia → Dados → Decisão
+
+[![Acessar portfólio](https://img.shields.io/badge/EXPLORAR_PORTFÓLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docodigoadecisao.com.br)
+
+</div>
+
+---
+
+<div align="center">
+
+### Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-s-inacio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabriel-S-Inacio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gsinacio04@gmail.com)
+
+<br>
+
+**Projetos · Operações · Engenharia · Dados · Negócio**
+
+<sub>Gabriel Santos Inácio — Do Código à Decisão</sub>
+
+</div>
