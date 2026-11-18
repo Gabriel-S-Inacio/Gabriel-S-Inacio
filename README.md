@@ -94,6 +94,26 @@ Case técnico-documental baseado em uma iniciativa corporativa real, voltada à 
 
 ---
 
+### 03. SAGT — Auditoria e Governança de Tarefas
+
+Aplicação em **Python e Streamlit**, integrada à **API REST do Bitrix24**, para auditoria de vínculos, governança operacional e migrações supervisionadas.
+
+[Ver repositório](https://github.com/Gabriel-S-Inacio/SAGT-Task-Governance)
+
+### 04. App do Cidadão
+
+Projeto acadêmico de extensão com **React Native/Expo, React, TypeScript, Node.js e PostgreSQL/PostGIS**. Demonstra integração entre aplicativo mobile, portal web, API e banco de dados geoespacial.
+
+[Ver repositório](https://github.com/Gabriel-S-Inacio/app-cidadao)
+
+### 05. Learn to Learn English
+
+Plataforma web com **React, Express, TypeScript e PostgreSQL**, contemplando autenticação, agendamentos e processos administrativos.
+
+[Ver repositório](https://github.com/Gabriel-S-Inacio/Projeto-Learn-to-Learn)
+
+---
+
 ## Stack & Competências Técnicas
 
 <div align="center">
